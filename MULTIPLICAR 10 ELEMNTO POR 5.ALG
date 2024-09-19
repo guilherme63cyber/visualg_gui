@@ -1,4 +1,6 @@
 Algoritmo "multiplicar 10 elemnto por 5"
+//  
+//  
 // 
 //  
 // Descrição   : Aqui você descreve o que o programa faz! (função)
