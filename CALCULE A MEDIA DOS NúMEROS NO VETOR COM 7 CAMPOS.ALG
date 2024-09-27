@@ -1,4 +1,6 @@
 Algoritmo "Calcule a media dos números no vetor com 7 campos"
+//  
+//  
 // 
 //  
 // Descrição   : Aqui você descreve o que o programa faz! (função)
